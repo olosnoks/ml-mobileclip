@@ -131,3 +131,13 @@ dmypy.json
 # macOS
 **/.DS_Store
 
+# Model weights and folders
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+checkpoints/
+
+
